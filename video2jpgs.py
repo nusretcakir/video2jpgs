@@ -20,3 +20,4 @@ while success:
     if cv2.waitKey(10) == 27:                          # exit if Escape is hit
           break
   count += 1
+print("finished")
